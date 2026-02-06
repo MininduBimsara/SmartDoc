@@ -122,5 +122,3 @@ This project uses **Google Gemini Pro**, which requires an API key.
 * Prompt engineering as an engineering skill
 
 ---
-Just tell me 🚀
-```
